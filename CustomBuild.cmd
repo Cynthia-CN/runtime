@@ -20,7 +20,7 @@ FOR %%G IN (%*) DO (
 )
 
 REM Environment configuration
-SET RUNTIME_ROOT=D:\runtime
+SET RUNTIME_ROOT=C:\workspace\runtime
 
 REM Build configuration
 SET CORECLR_ARCH=x64
