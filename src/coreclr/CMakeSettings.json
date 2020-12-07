@@ -2,7 +2,7 @@
   "configurations": [
   {
     "name": "CoreCLR",
-    "cacheRoot": "D:\\runtime\\artifacts\\obj\\coreclr\\windows.x64.Debug"
+    "cacheRoot": "C:\\workspace\\runtime\\artifacts\\obj\\coreclr\\windows.x64.Debug"
   }
   ]
 }
