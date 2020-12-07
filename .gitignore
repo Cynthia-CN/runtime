@@ -10,6 +10,11 @@ syntax: glob
 .packages
 .tools
 
+#Add the following to the .gitignore file in the repo root so that indexing skips them. Otherwise it might take a really long time to index.
+*.csproj
+*.vcxproj
+*.sln
+
 # User-specific files
 *.suo
 *.user
